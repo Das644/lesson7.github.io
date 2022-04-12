@@ -1,1 +1,1 @@
-# lesson7.github.io
+# lesson6.github.io
